@@ -1,0 +1,12 @@
+{
+  "name": "topojson",
+  "version": "1.0.0",
+  "description": "TopoJSON Collection",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dani-cl-madrid/topojson.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/dani-cl-madrid/topojson#readme"
+}
